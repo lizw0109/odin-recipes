@@ -1,2 +1,2 @@
 # odin-recipes
-This is a project to test adn improve Git commits.
+This is a project to test and improve Git commits.
